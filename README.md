@@ -1,16 +1,20 @@
-## Hi there 👋
+### Olá, sou o Vitor 👋
 
-<!--
-**VitorPaes/VitorPaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro de dados no **Mercado Livre**, em São Paulo. Trabalho com integração, transformação e modelagem de dados para conectar tecnologia e negócio.
 
-Here are some ideas to get you started:
+🌐 **[vitorpaes.dev](https://vitorpaes.dev)** · 💼 **[LinkedIn](https://www.linkedin.com/in/vitor-paes/)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Projetos em destaque
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| [**Índice de Potencial Bancário**](https://github.com/LucioFrCruz/heluvina_projeto_final_202602) | Projeto coletivo de MBA: dados públicos (IBGE, BCB, Anatel) para mapear oportunidades de expansão bancária nos municípios | Python · Pandas · BigQuery · GCS |
+| [**Plataforma analítica local**](https://github.com/VitorPaes/sre-herluvina) | Pipeline de ponta a ponta com camadas staging → marts, testes de integridade e dashboard | dbt · DuckDB · MinIO · Streamlit · Docker |
+| [**Vendas e comissões**](https://github.com/VitorPaes/desafio_magalu) | Modelagem dimensional de e-commerce, regras de comissão e ranking mensal de parceiros | PySpark · Star schema |
+| [**Base analítica de crédito**](https://github.com/VitorPaes/desafio_pan) | Variáveis de crédito no formato SCR por modalidade, vencimento e faixa de atraso | SQL · Python · SQLite |
+
+#### Ferramentas do dia a dia
+
+`SQL` `Python` `PySpark` `Airflow` `dbt` `BigQuery` `Google Cloud` `AWS` `Git` `GitHub Actions`
